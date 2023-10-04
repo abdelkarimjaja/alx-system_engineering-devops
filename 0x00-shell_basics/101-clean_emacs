@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep -P ".*~.*" | xargs -d"\n" rm
+rm *~
