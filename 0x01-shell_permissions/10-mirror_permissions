@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --reference="$(pwd)/olleh" "$(pwd)/hello"
+chmod --reference=olleh hello
