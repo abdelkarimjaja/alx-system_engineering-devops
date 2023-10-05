@@ -1,2 +1,3 @@
 #!/bin/bash
-chmod 007 "$(pwd)"
+# ychmod 007 "$(pwd)"
+chmod 007  hello
