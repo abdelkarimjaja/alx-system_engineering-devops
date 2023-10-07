@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff "$(pwd)/hello"
+chown -h vincent:staff "$(pwd)/_hello"
