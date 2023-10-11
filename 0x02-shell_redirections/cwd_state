@@ -1,0 +1,22 @@
+total 140
+drwxr-xr-x 2 root root  4096 Oct 11 01:48 .
+drw-r--r-- 6 root root   121 Oct 10 07:24 ..
+-rwxr--r-- 1 root root    32 Oct 10 07:23 0-hello_world
+-rw-r--r-- 1 root root 12288 Oct 10 07:26 .0-hello_world.swp
+-rw------- 1 root root 12288 Oct 10 07:29 .1-confused_simley.swp
+-rwxr-xr-x 1 root root    28 Oct 10 13:58 1-confused_smiley
+-rwxr--r-- 1 root root    28 Oct 10 07:37 2-hellofile
+-rwxr--r-- 1 root root    39 Oct 10 13:56 3-twofiles
+-rw------- 1 root root 12288 Oct 10 13:56 .3-twofiles.swp
+-rwxr--r-- 1 root root    35 Oct 10 14:02 4-lastlines
+-rw------- 1 root root 12288 Oct 10 14:02 .4-lastlines.swp
+-rwxr--r-- 1 root root    35 Oct 10 14:06 5-firstlines
+-rw------- 1 root root 12288 Oct 10 14:06 .5-firstlines.swp
+-rwxr--r-- 1 root root    50 Oct 11 01:32 6-third_line
+-rw------- 1 root root 12288 Oct 11 01:32 .6-third_line.swp
+-rwxr--r-- 1 root root   100 Oct 11 01:43 7-file
+-rw-r--r-- 1 root root 12288 Oct 11 01:44 .7-file.swo
+-rw------- 1 root root 12288 Oct 10 14:19 .7-file.swp
+-rw-r--r-- 1 root root    12 Oct 11 01:45 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Oct 11 01:48 cwd_state
+-rw-r--r-- 1 root root    38 Oct 10 07:32 README.md
